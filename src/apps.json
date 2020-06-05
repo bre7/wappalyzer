@@ -1999,6 +1999,18 @@
       "script": "chartbeat\\.js",
       "website": "http://chartbeat.com"
     },
+    "Chatbot.com": {
+      "cats": [
+        5, 52
+      ],
+      "html": "<iframe[^>]+src=\"[^>]+cdn\\.chatbot\\.com\\/widget",
+      "icon": "chatbotcom.svg",
+      "js": {
+        "window.__be.id": ""
+      },
+      "script": "chatbot\\.com\\/widget\\/plugin\\.js",
+      "website": "https://chatbot.com"
+    },
     "Cherokee": {
       "cats": [
         22
